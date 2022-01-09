@@ -13,6 +13,7 @@
     height: 200px;
     padding: 8px;
     font-size: 18px;
+    color:black;
 }
 </style>
 <script>
