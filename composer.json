@@ -1,0 +1,15 @@
+{
+    "name": "dockeryz/dockeryz_com",
+    "autoload": {
+        "psr-4": {
+            "Dockeryz\\DockeryzCom\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zane Dockery",
+            "email": "dockeryz@gmail.com"
+        }
+    ],
+    "require": {}
+}
