@@ -26,6 +26,7 @@ function drag_drop(event) {
     /*   https://www.developphp.com/video/JavaScript/File-Upload-Progress-Bar-Meter-Tutorial-Ajax-PHP */	   
 }
 </script>
+<h1>Github</h1>
 <h1>File Upload Drop Zone</h1>
 <div id="drop_zone" ondrop="drag_drop(event)" ondragover="return false"></div>
 
